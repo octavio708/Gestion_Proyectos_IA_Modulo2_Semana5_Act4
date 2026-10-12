@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision (Weighted),Recall (Weighted),F1-Score (Weighted),Latencia Media (ms)
+DistilBERT,0.3,0.3444,0.3,0.2227,32.72
+RoBERTa,0.2,0.0667,0.2,0.1000,36.77
+FinBERT,0.4,0.2222,0.4,0.2857,36.50
